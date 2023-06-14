@@ -3,10 +3,10 @@
 }
 
 body {
-    background-color: rgb(63, 55, 62);
+    background-color: rgb(246, 55, 89);
     margin: 0 !important;
     padding: 0 !important;
-	background: linear-gradient(-120deg, rgb(0, 0, 0), rgb(17, 17, 27), rgb(30, 30, 46),#45475a, rgb(30, 30, 46), rgb(17, 17, 27), rgb(0, 0, 0));
+	background: linear-gradient(-120deg, rgb(0, 0, 0), rgb(17, 17, 17), rgb(30, 30, 30),#45475a, rgb(30, 30, 30), rgb(17, 17, 17), rgb(0, 0, 0));
 	background-size: 400% 400%;
 	animation: gradient 20s ease infinite;
 }
@@ -23,10 +23,10 @@ body {
 	}
 }
 
-a:link {color: rgb(255, 131, 249);}  
-a:visited {color: #ff009d}  
-a:hover {color: #ff0077}  
-a:active {color: #4e0044}  
+a:link {color: rgb(246, 55, 89);}  
+a:visited {color: #F63759}  
+a:hover {color: #F63759}  
+a:active {color: #F63759}  
 
 .container {
     margin: 5px !important;
