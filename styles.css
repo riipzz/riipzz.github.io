@@ -94,6 +94,6 @@ hr.rounded {
   user-select: none;
     background: rgba(128, 255, 0, 0);
     border: rgba(255, 240, 245, 0);
-  border-top: 3px solid rgb(50,50,50);
+  border-top: 3px solid rgb(40, 11, 17);
   border-radius: 4px;
 }
