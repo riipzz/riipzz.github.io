@@ -6,7 +6,7 @@ body {
     background-color: rgb(246, 55, 89);
     margin: 0 !important;
     padding: 0 !important;
-	background: linear-gradient(-120deg, rgb(0, 0, 0), rgb(18, 4, 7), rgb(115, 25, 42),#F63759, rgb(115, 25, 42), rgb(18, 4, 7), rgb(0, 0, 0));
+	background: linear-gradient(-120deg, rgb(0, 0, 0), rgb(17,17,17), rgb(30,30,30),#F63759, rgb(30,30,30), rgb(17,17,17), rgb(0, 0, 0));
 	background-size: 400% 400%;
 	animation: gradient 20s ease infinite;
 }
